@@ -38,6 +38,7 @@ Also, we split the data to train and test data set.  The train set is 85% of the
 
 ## Machine Learning algorithms
 For the purpose of the analysis we have deployed a Decision tree and a logistic regression model.
+We assess the performance of the two approaches with Confusion Matrix and ROC Curves
 
 
 
