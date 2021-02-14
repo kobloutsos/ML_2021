@@ -31,7 +31,15 @@ tenure
 MonthlyCharges
 TotalCharges
 
-In order to better understand the data we apply some descriptive analysis for the continuous variables along with some histograms for the categorial. 
+## Data Pre-processing
+In order to better understand the data we apply some descriptive analysis for the continuous variables along with some histograms/frequency tables for the categorial variables. 
+Moreover, we need to recode the categorical variables to binaries with hot-encoding. 
+Also, we split the data to train and test data set.  The train set is 85% of the original dataset. 
+
+## Machine Learning algorithms
+For the purpose of the analysis we have deployed a Decision tree and a logistic regression model.
+
+
 
 
 
