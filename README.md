@@ -1,1 +1,2 @@
-# ML_2021
+# M.Sc. in Artificial Intelligence
+# Machine Learning Project
